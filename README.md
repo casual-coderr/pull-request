@@ -5,4 +5,5 @@ Steps:
 2) Add any files you wish and push it to your repo.
 3) Give a pull request to this repo.
 4) It should automatically be merged with this.
+  Optional - After Giving a pull request you can delete the repo from your account
 5) Happy Coding...
